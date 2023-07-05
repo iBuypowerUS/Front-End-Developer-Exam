@@ -7,7 +7,7 @@
 * 資料的結構可以自行定義，測試資料可以自行 Mock
 * 桌面版最多顯示4筆
 ![](https://hackmd.io/_uploads/Sk2gF8MF2.png)
-* 手機版最多顯示1筆，支援左右滑動
+* 手機版最多顯示1筆，支援左右滑動  
 ![](https://hackmd.io/_uploads/Hkk-9UzYh.png)
 * 電腦主要分成, 套裝電腦及客製化電腦，套裝電腦的按鈕顯示 Buy Now ，客製化電腦按鈕則顯示Customize
 * 相關電腦圖片部份 - 可以至[官方網站](https://www.ibuypower.com/)下載
