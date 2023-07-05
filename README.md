@@ -11,8 +11,8 @@
 * 手機版最多顯示1筆，要可以左右滑動
 ![](https://hackmd.io/_uploads/Hkk-9UzYh.png)
 * 電腦主要分成, 套裝電腦及客製化電腦，套裝電腦的按鈕顯示 Buy Now ，客製化電腦按鈕則顯示Customize
-* 相關電腦圖片部份 - 可以訪問我們的[官方網站](https://www.ibuypower.com/)下載
-
+* 相關電腦圖片部份 - 可以至[官方網站](https://www.ibuypower.com/)下載
+* Affirm svg 在 repo 中。
 
 ## 設計稿
 待更新
