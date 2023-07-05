@@ -13,8 +13,8 @@
 * 相關電腦圖片部份 - 可以至[官方網站](https://www.ibuypower.com/)下載
 * Affirm svg 在 repo 中。
 
-## 設計稿
-待更新
+## 樣式可以參考設計稿
+https://xd.adobe.com/view/0d5006a8-a792-4f92-9b8c-6b7fa987f909-5803
 
 ## 實作希望可以看到：
 * 搭配 Tailwindcss
