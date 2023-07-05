@@ -20,4 +20,4 @@ https://xd.adobe.com/view/0d5006a8-a792-4f92-9b8c-6b7fa987f909-5803
 * 搭配 Tailwindcss
 * 原始檔案存放到 GitHub 上，請保留Git紀錄，並給連結以便查閱
 * 將作業放到GitHub上，建立一個 GitHub Page 或 Vercel 作為部署及發佈點
-* 請記得將 Github 公開
+* 請將 Github Repo 設定為公開
