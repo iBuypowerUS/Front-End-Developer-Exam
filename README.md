@@ -12,6 +12,7 @@
 * 相關電腦圖片部份 - 可以至[官方網站](https://www.ibuypower.com/)下載素材
 * Affirm svg 在 repo 中。
 * 樣式可以參考設計稿，樣式間距可以自行調整
+* Slider，並不限制任何的做法
 
 ## 設計稿
 https://xd.adobe.com/view/0d5006a8-a792-4f92-9b8c-6b7fa987f909-5803
