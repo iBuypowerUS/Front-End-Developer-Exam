@@ -19,6 +19,7 @@ https://xd.adobe.com/view/0d5006a8-a792-4f92-9b8c-6b7fa987f909-5803
 
 ## 實作希望可以看到：
 * 搭配 Tailwindcss
+* 使用 Typescirpt 專案
 * 原始檔案存放到 GitHub 上，請保留Git紀錄，並給連結以便查閱
 * 將作業放到GitHub上，建立一個 GitHub Page 或 Vercel 作為部署及發佈點 ( 靜態頁面即可 )
 * 請將 Github Repo 設定為公開
